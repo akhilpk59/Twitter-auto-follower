@@ -1,0 +1,1 @@
+Simple script to browse into logged in X/Twitter account, and following influencers from a list in a json file. This repo contains the different approaches taken to solve the problem, and all the attempts made. 
