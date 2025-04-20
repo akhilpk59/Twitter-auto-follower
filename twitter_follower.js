@@ -5,8 +5,8 @@ const fs = require("fs");
 const influencers = JSON.parse(fs.readFileSync("influencers.json"));
 
 const TWITTER_URL = "https://x.com";
-const USERNAME = "@enthu_ai"; // Replace with your Twitter handle
-const PASSWORD = "NewBeginning"; // Replace with your Twitter password
+const USERNAME = "username"; // Replace with your Twitter handle
+const PASSWORD = "password"; // Replace with your Twitter password
 
 // Function to wait for a random time
 const randomDelay = (min = 5000, max = 10000) => 
